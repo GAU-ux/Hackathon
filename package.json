@@ -2,7 +2,7 @@
   "name": "item-list-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GAU-ux.github.io/item-list-manager"
+  "homepage": "https://GAU-ux.github.io/item-list-manager",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
